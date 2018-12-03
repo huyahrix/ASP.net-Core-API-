@@ -10,7 +10,7 @@ namespace ApiCore.Interfaces
     {
         Users Authenticate(string Usersname, string password);
         IEnumerable<Users> GetAll();
-        Users GetById(int id);
+        Users GetById(string id);
         Users Create(Users Users, string password);
         Users Update(Users Users, string password = null);
         void Delete(int id);
