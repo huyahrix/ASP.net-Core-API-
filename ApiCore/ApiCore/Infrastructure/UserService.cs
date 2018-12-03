@@ -34,13 +34,12 @@ namespace ApiCore.Infrastructure
             //authentication successful
             return users;
         }
-
         public IEnumerable<Users> GetAll()
         {
             return _context.Users;
         }
 
-        public Users GetById(int id)
+        public Users GetById(string id)
         {
             return _context.Users.Find(id);
         }

@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Http;
+//using System.Linq;
+//using System.Threading.Tasks;
+//using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
+//using Microsoft.EntityFrameworkCore;
 using ApiCore.Models;
 using Microsoft.AspNetCore.Authorization;
 using ApiCore.Interfaces;
@@ -89,7 +89,7 @@ namespace ApiCore.Controllers
             }
         }
 
-        [AllowAnonymous]
+        //[AllowAnonymous]
         [HttpGet]
         public IActionResult GetAll()
         {
@@ -97,9 +97,9 @@ namespace ApiCore.Controllers
             var userDtos = _mapper.Map<IList<UserDTO>>(users);
             return Ok(userDtos);
         }
-
+        //[AllowAnonymous]
         [HttpGet("{id}")]
-        public IActionResult GetById(int id)
+        public IActionResult GetById(string id)
         {
             var user = _userService.GetById(id);
             var userDto = _mapper.Map<UserDTO>(user);
