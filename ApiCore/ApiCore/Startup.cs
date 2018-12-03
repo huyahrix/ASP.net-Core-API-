@@ -109,7 +109,6 @@ namespace ApiCore
                     },
                     OnChallenge = context =>
                      {
-                        
                          Console.WriteLine("OnChallenge");
                          return Task.CompletedTask;
                      }

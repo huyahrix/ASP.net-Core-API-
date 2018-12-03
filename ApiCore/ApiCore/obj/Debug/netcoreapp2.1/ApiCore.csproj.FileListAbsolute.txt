@@ -11,3 +11,4 @@ E:\NGOCHUY\MY ID\Asp.net core\Core Api\ApiCore\ApiCore\obj\Debug\netcoreapp2.1\A
 E:\NGOCHUY\MY ID\Asp.net core\Core Api\ApiCore\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.RazorTargetAssemblyInfo.cache
 E:\NGOCHUY\MY ID\Asp.net core\Core Api\ApiCore\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.dll
 E:\NGOCHUY\MY ID\Asp.net core\Core Api\ApiCore\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.pdb
+E:\NGOCHUY\MY ID\Asp.net core\Core Api\ApiCore\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.csprojAssemblyReference.cache
