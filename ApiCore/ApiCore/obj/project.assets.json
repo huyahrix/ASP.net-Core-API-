@@ -12389,11 +12389,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\NGOCHUY\\MY ID\\Asp.net core\\ApiCore\\ApiCore\\ApiCore.csproj",
+      "projectUniqueName": "E:\\NGOCHUY\\MY ID\\Asp.net core\\Core Api\\ApiCore\\ApiCore\\ApiCore.csproj",
       "projectName": "ApiCore",
-      "projectPath": "E:\\NGOCHUY\\MY ID\\Asp.net core\\ApiCore\\ApiCore\\ApiCore.csproj",
+      "projectPath": "E:\\NGOCHUY\\MY ID\\Asp.net core\\Core Api\\ApiCore\\ApiCore\\ApiCore.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "E:\\NGOCHUY\\MY ID\\Asp.net core\\ApiCore\\ApiCore\\obj\\",
+      "outputPath": "E:\\NGOCHUY\\MY ID\\Asp.net core\\Core Api\\ApiCore\\ApiCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

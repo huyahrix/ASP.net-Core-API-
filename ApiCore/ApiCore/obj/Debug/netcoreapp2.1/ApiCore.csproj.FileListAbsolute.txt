@@ -1,14 +1,13 @@
-E:\NGOCHUY\MY ID\Asp.net core\ApiCore\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.csprojAssemblyReference.cache
-E:\NGOCHUY\MY ID\Asp.net core\ApiCore\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.csproj.CoreCompileInputs.cache
-E:\NGOCHUY\MY ID\Asp.net core\ApiCore\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.RazorAssemblyInfo.cache
-E:\NGOCHUY\MY ID\Asp.net core\ApiCore\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.RazorAssemblyInfo.cs
-E:\NGOCHUY\MY ID\Asp.net core\ApiCore\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.AssemblyInfoInputs.cache
-E:\NGOCHUY\MY ID\Asp.net core\ApiCore\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.AssemblyInfo.cs
-E:\NGOCHUY\MY ID\Asp.net core\ApiCore\ApiCore\bin\Debug\netcoreapp2.1\ApiCore.deps.json
-E:\NGOCHUY\MY ID\Asp.net core\ApiCore\ApiCore\bin\Debug\netcoreapp2.1\ApiCore.runtimeconfig.json
-E:\NGOCHUY\MY ID\Asp.net core\ApiCore\ApiCore\bin\Debug\netcoreapp2.1\ApiCore.runtimeconfig.dev.json
-E:\NGOCHUY\MY ID\Asp.net core\ApiCore\ApiCore\bin\Debug\netcoreapp2.1\ApiCore.dll
-E:\NGOCHUY\MY ID\Asp.net core\ApiCore\ApiCore\bin\Debug\netcoreapp2.1\ApiCore.pdb
-E:\NGOCHUY\MY ID\Asp.net core\ApiCore\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.RazorTargetAssemblyInfo.cache
-E:\NGOCHUY\MY ID\Asp.net core\ApiCore\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.dll
-E:\NGOCHUY\MY ID\Asp.net core\ApiCore\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.pdb
+C:\Users\ADMIN\source\repos\netcoreapp2.1\ApiCore.deps.json
+C:\Users\ADMIN\source\repos\netcoreapp2.1\ApiCore.runtimeconfig.json
+C:\Users\ADMIN\source\repos\netcoreapp2.1\ApiCore.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\netcoreapp2.1\ApiCore.dll
+C:\Users\ADMIN\source\repos\netcoreapp2.1\ApiCore.pdb
+E:\NGOCHUY\MY ID\Asp.net core\Core Api\ApiCore\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.csproj.CoreCompileInputs.cache
+E:\NGOCHUY\MY ID\Asp.net core\Core Api\ApiCore\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.RazorAssemblyInfo.cache
+E:\NGOCHUY\MY ID\Asp.net core\Core Api\ApiCore\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.RazorAssemblyInfo.cs
+E:\NGOCHUY\MY ID\Asp.net core\Core Api\ApiCore\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.AssemblyInfoInputs.cache
+E:\NGOCHUY\MY ID\Asp.net core\Core Api\ApiCore\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.AssemblyInfo.cs
+E:\NGOCHUY\MY ID\Asp.net core\Core Api\ApiCore\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.RazorTargetAssemblyInfo.cache
+E:\NGOCHUY\MY ID\Asp.net core\Core Api\ApiCore\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.dll
+E:\NGOCHUY\MY ID\Asp.net core\Core Api\ApiCore\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.pdb

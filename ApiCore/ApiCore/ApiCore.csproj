@@ -4,6 +4,25 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath>C:\Users\ADMIN\source\repos\</OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Services\**" />
+    <Compile Remove="wwwroot\**" />
+    <Content Remove="Services\**" />
+    <Content Remove="wwwroot\**" />
+    <EmbeddedResource Remove="Services\**" />
+    <EmbeddedResource Remove="wwwroot\**" />
+    <None Remove="Services\**" />
+    <None Remove="wwwroot\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Northwind.sql" />
+  </ItemGroup>
+
   <ItemGroup>
     <PackageReference Include="AutoMapper" Version="8.0.0" />
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="6.0.0" />
@@ -16,11 +35,6 @@
     </PackageReference>
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.6" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="4.0.1" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Services\" />
-    <Folder Include="wwwroot\" />
   </ItemGroup>
 
 </Project>
